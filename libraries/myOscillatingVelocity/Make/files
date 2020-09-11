@@ -1,3 +1,0 @@
-oscillatingVelocityPointPatchVectorField.C
-
-LIB = $(FOAM_USER_LIBBIN)/libMyOscillatingVelocity

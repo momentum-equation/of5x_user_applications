@@ -1,1 +1,0 @@
-../oscillatingSwirlInletVelocityFvPatchVectorField.C

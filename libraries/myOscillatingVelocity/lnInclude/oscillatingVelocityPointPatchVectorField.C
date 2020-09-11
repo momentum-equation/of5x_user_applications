@@ -1,1 +1,0 @@
-../oscillatingVelocityPointPatchVectorField.C
